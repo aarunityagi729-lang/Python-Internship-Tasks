@@ -27,4 +27,4 @@ Average Marks: 81.50
 Highest Marks: 91 (Priya)
 
 ### Author
-Miya
+Aaruni Tyagi 
