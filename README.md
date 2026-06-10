@@ -26,5 +26,18 @@ Rohan: 78
 Average Marks: 81.50
 Highest Marks: 91 (Priya)
 
+## Task 3: Data Visualization Project
+
+Created a bar chart visualization of student marks using Python.
+
+### Libraries Used
+- Pandas
+- Matplotlib
+
+### Features
+- Data organization using Pandas
+- Bar chart visualization
+- Student performance analysis
+
 ### Author
 Aaruni Tyagi 
